@@ -1,3 +1,0 @@
-# Test Document Two
-
-Our translation platform supports conversion between multiple languages, including English, Japanese, Korean, and other mainstream languages. To ensure the accuracy and naturalness of translations, we utilize the latest artificial intelligence and machine learning technologies. This longer test document will help verify the system's performance in handling complex sentence structures and various expressions. Through continuous testing and optimization, we are able to provide users with a better translation experience. We hope this document fully demonstrates our translation capabilities.

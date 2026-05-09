@@ -1,3 +1,0 @@
-# Test Document One
-
-This is a document for translation testing. Our project is dedicated to providing high-quality translation services, helping users easily overcome language barriers. Through advanced technology and a professional team, we can accurately convert content from one language to another. This test document contains common sentence structures and vocabulary to verify the accuracy and efficiency of the translation system. We hope this test will help us continuously improve translation quality.
